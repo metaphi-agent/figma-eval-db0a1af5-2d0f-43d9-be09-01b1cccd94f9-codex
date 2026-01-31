@@ -1,7 +1,19 @@
 {
   "figma_file_key": "oSNDlloRkATjxNzY8YMSlD",
-  "total_frames": 25,
+  "total_frames": 36,
   "frames": [
+    { "name": "Onboarding/Loading", "node_id": "1621:130335", "gt_image": "1621-130335.png", "target_route": "/onboarding/loading" },
+    { "name": "Onboarding/Results 1", "node_id": "1621:130310", "gt_image": "1621-130310.png", "target_route": "/onboarding/results-1" },
+    { "name": "Onboarding/Results 2", "node_id": "1826:113225", "gt_image": "1826-113225.png", "target_route": "/onboarding/results-2" },
+    { "name": "Onboarding/SpacesQ1", "node_id": "1888:130960", "gt_image": "1888-130960.png", "target_route": "/onboarding/spaces-q1" },
+    { "name": "Onboarding/SpacesQ2", "node_id": "1621:130446", "gt_image": "1621-130446.png", "target_route": "/onboarding/spaces-q2" },
+    { "name": "Onboarding/SpacesQ2-LoadMore", "node_id": "1722:47848", "gt_image": "1722-47848.png", "target_route": "/onboarding/spaces-q2-loadmore" },
+    { "name": "Onboarding/SpacesQ3", "node_id": "1621:130413", "gt_image": "1621-130413.png", "target_route": "/onboarding/spaces-q3" },
+    { "name": "Onboarding/EditStyle", "node_id": "1722:49141", "gt_image": "1722-49141.png", "target_route": "/onboarding/edit-style" },
+    { "name": "Onboarding/OTP 1", "node_id": "2209:175996", "gt_image": "2209-175996.png", "target_route": "/onboarding/otp-1" },
+    { "name": "Onboarding/OTP 2", "node_id": "2209:176089", "gt_image": "2209-176089.png", "target_route": "/onboarding/otp-2" },
+    { "name": "Onboarding/PhoneNumber", "node_id": "7625:57953", "gt_image": "7625-57953.png", "target_route": "/onboarding/phone-number" },
+
     { "name": "mWEB/PDP", "node_id": "2176:167104", "gt_image": "2176-167104.png", "target_route": "/pdp" },
     { "name": "mWEB/Reviews", "node_id": "2176:167828", "gt_image": "2176-167828.png", "target_route": "/reviews" },
     { "name": "mWEB/InfluencerStore", "node_id": "2176:167889", "gt_image": "2176-167889.png", "target_route": "/influencer-store" },
@@ -35,4 +47,3 @@
     { "name": "Order confirmation 2", "node_id": "6113:66997", "gt_image": "6113-66997.png", "target_route": "/order-confirmation-2" }
   ]
 }
-
