@@ -1,0 +1,38 @@
+{
+  "figma_file_key": "oSNDlloRkATjxNzY8YMSlD",
+  "total_frames": 25,
+  "frames": [
+    { "name": "mWEB/PDP", "node_id": "2176:167104", "gt_image": "2176-167104.png", "target_route": "/pdp" },
+    { "name": "mWEB/Reviews", "node_id": "2176:167828", "gt_image": "2176-167828.png", "target_route": "/reviews" },
+    { "name": "mWEB/InfluencerStore", "node_id": "2176:167889", "gt_image": "2176-167889.png", "target_route": "/influencer-store" },
+    { "name": "mWEB/PLP - Category", "node_id": "2176:167875", "gt_image": "2176-167875.png", "target_route": "/plp-category" },
+    { "name": "mWEB/Collection/Brand", "node_id": "2176:168660", "gt_image": "2176-168660.png", "target_route": "/collection-brand" },
+
+    { "name": "Prompt to sign in/PDP 1", "node_id": "2812:235867", "gt_image": "2812-235867.png", "target_route": "/pdp-signin-1" },
+    { "name": "Prompt to sign in/PDP 2", "node_id": "2812:236615", "gt_image": "2812-236615.png", "target_route": "/pdp-signin-2" },
+    { "name": "Prompt to sign in/PDP 3", "node_id": "2812:238075", "gt_image": "2812-238075.png", "target_route": "/pdp-signin-3" },
+
+    { "name": "Cart/Enter pincode 1", "node_id": "2812:217496", "gt_image": "2812-217496.png", "target_route": "/cart/pincode-1" },
+    { "name": "Cart/Enter pincode 2", "node_id": "2812:217523", "gt_image": "2812-217523.png", "target_route": "/cart/pincode-2" },
+    { "name": "Cart/Enter pincode 3", "node_id": "2812:217505", "gt_image": "2812-217505.png", "target_route": "/cart/pincode-3" },
+    { "name": "Cart/Enter pincode 4", "node_id": "2812:217594", "gt_image": "2812-217594.png", "target_route": "/cart/pincode-4" },
+
+    { "name": "Cart/Manage products 1", "node_id": "2812:217665", "gt_image": "2812-217665.png", "target_route": "/cart/manage-1" },
+    { "name": "Cart/Manage products 2", "node_id": "2812:217669", "gt_image": "2812-217669.png", "target_route": "/cart/manage-2" },
+    { "name": "Cart/Manage products 3", "node_id": "2812:217675", "gt_image": "2812-217675.png", "target_route": "/cart/manage-3" },
+    { "name": "Cart/Manage products 4", "node_id": "2812:217688", "gt_image": "2812-217688.png", "target_route": "/cart/manage-4" },
+    { "name": "Cart/Manage products 5", "node_id": "2812:217701", "gt_image": "2812-217701.png", "target_route": "/cart/manage-5" },
+    { "name": "Cart/Manage products 6", "node_id": "2812:217727", "gt_image": "2812-217727.png", "target_route": "/cart/manage-6" },
+    { "name": "Cart/Manage products 7", "node_id": "2812:217747", "gt_image": "2812-217747.png", "target_route": "/cart/manage-7" },
+
+    { "name": "Cart/Recommended 1", "node_id": "2812:217752", "gt_image": "2812-217752.png", "target_route": "/cart/recommended-1" },
+    { "name": "Cart/Recommended 2", "node_id": "2812:217757", "gt_image": "2812-217757.png", "target_route": "/cart/recommended-2" },
+
+    { "name": "Cart/Price details 1", "node_id": "2812:217772", "gt_image": "2812-217772.png", "target_route": "/cart/price-details-1" },
+    { "name": "Cart/Price details 2", "node_id": "2812:217776", "gt_image": "2812-217776.png", "target_route": "/cart/price-details-2" },
+
+    { "name": "Order confirmation 1", "node_id": "2772:265055", "gt_image": "2772-265055.png", "target_route": "/order-confirmation-1" },
+    { "name": "Order confirmation 2", "node_id": "6113:66997", "gt_image": "6113-66997.png", "target_route": "/order-confirmation-2" }
+  ]
+}
+

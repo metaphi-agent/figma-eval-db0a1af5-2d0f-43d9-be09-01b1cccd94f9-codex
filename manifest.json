@@ -1,0 +1,14 @@
+{
+  "github_repo_url": "https://github.com/metaphi-agent/figma-eval-db0a1af5-2d0f-43d9-be09-01b1cccd94f9-codex",
+  "updated_at": "2026-01-31T20:02:45.921272+00:00",
+  "completed_steps": [
+    "Step 5: Scaffold Project",
+    "Step 1: Extract from Figma",
+    "Step 2: Export Ground Truth",
+    "Step 6: Generate Components",
+    "Step 4: Component & Interaction Audit",
+    "Step 3: Visual Analysis"
+  ],
+  "figma_file_key": "oSNDlloRkATjxNzY8YMSlD",
+  "deployed_url": "https://storage.googleapis.com/metaphi-agent/figma-db0a1af5-2d0f-43d9-be09-01b1cccd94f9/oker-living/index.html"
+}

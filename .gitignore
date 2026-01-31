@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+
+# Large artifacts from extraction / runs
+figma_exports/
+ground_truth/*.png
+transcript.jsonl
+

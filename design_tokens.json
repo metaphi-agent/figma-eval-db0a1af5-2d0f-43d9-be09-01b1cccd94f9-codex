@@ -1,0 +1,49 @@
+{
+  "name": "Oker Living",
+  "font": {
+    "family": "Inter",
+    "fallback": "-apple-system, BlinkMacSystemFont, sans-serif"
+  },
+  "colors": {
+    "charcoal": {
+      "5": "#f2f2f2",
+      "10": "#e1e1e1",
+      "20": "#868686",
+      "30": "#4a4a4a",
+      "50": "#333333",
+      "100": "#222222"
+    },
+    "white": "#ffffff",
+    "mango": { "1": "#f5f3f0", "20": "#fce8ca", "100": "#f3a900" },
+    "rust": { "20": "#f2dcd1", "100": "#ca7e4c" },
+    "blush_pink": "#fff5f3",
+    "orange": { "10": "#f9d4bb", "100": "#ef7625" },
+    "purple": { "10": "#e4d7f7", "100": "#b291e9" },
+    "green": { "10": "#bcccbf", "100": "#487c61" },
+    "alerts": {
+      "success": "#2b7c2f",
+      "loading": "#00a0ac",
+      "loading_10": "#ddeede",
+      "critical": "#c44b1d",
+      "critical_10": "#fcf0eb"
+    }
+  },
+  "text_styles": [
+    "XXS/Semibold",
+    "XS/Regular",
+    "XS/Semibold",
+    "Small/Regular",
+    "Small/Semibold",
+    "Body Small/Regular",
+    "Body Small/Semibold",
+    "Body/Regular",
+    "Body/Semibold",
+    "Large/Regular",
+    "Large/Semibold",
+    "Large/Bold",
+    "XL/Regular",
+    "XL/Semibold",
+    "XL/Bold"
+  ]
+}
+
